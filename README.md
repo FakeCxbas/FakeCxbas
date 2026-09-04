@@ -8,7 +8,7 @@ Trabajo con **React, TypeScript, JavaScript, Python y Flutter**. Mi experiencia 
 
 | Proyecto | Mi trabajo | Tecnologías |
 | --- | --- | --- |
-| [ContaNova](https://github.com/FakeCxbas/ContaNova) · [Web](https://contanova.vercel.app) | Desarrollo de una plataforma de gestión comercial y facturación electrónica SRI, utilizada por negocios con soporte continuo. | React, TypeScript, PostgreSQL |
+| [ContaNova](https://github.com/FakeCxbas/ContaNova) · [Web](https://contanova.org) | Desarrollo de una plataforma de gestión comercial y facturación electrónica SRI, utilizada por negocios con soporte continuo. | React, TypeScript, PostgreSQL |
 | [TechView](https://github.com/FakeCxbas/TechView) | Software de asistencia visual con detección de objetos y alertas por voz. Proyecto de graduación en equipo, con mención de honor en enero de 2026. | Python, OpenCV, YOLOv8, Flask |
 | [SmartDocs](https://github.com/FakeCxbas/SmartDocs) | Plataforma documental desarrollada por encargo: autenticación, almacenamiento, búsqueda y OCR. | React, TypeScript, Tesseract.js |
 | [Actuariosa](https://github.com/FakeCxbas/actuariosa-web) | Propuesta web de consultoría actuarial publicada en Vercel, con diseño adaptable y solicitudes de cotización por WhatsApp y correo. | React, TypeScript, CSS |
