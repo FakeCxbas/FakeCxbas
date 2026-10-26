@@ -4,11 +4,11 @@
 
 Desarrollo aplicaciones **web, móviles y de escritorio** orientadas a resolver necesidades de negocios y automatización de procesos. Mi experiencia abarca desde el levantamiento de requerimientos y diseño de soluciones hasta la capacitación de usuarios y mantenimiento continuo en producción.
 
-📍 **Guayaquil, Ecuador** · Abierto a oportunidades de desarrollo junior y pasantías.
+📍 **Guayaquil, Ecuador** · 🌐 [sebastianzambrano.dev](https://sebastianzambrano.dev) · Abierto a oportunidades junior y pasantías.
 
 <p>
-  <a href="https://sebastian-zambrano-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  <a href="https://sebastianzambrano.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio_Web-sebastianzambrano.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web" />
   </a>
   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-paul-zambrano-inga-7700633ab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
