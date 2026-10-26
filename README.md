@@ -4,17 +4,19 @@
 
 Desarrollo aplicaciones **web, móviles y de escritorio** orientadas a resolver necesidades de negocios y automatización de procesos. Mi experiencia abarca desde el levantamiento de requerimientos y diseño de soluciones hasta la capacitación de usuarios y mantenimiento continuo en producción.
 
-📍 **Guayaquil, Ecuador** · 🌐 [sebastianzambrano.dev](https://sebastianzambrano.dev) · Abierto a oportunidades junior y pasantías.
+📍 **Guayaquil, Ecuador** · Abierto a oportunidades junior y pasantías.
 
-<p>
-  <a href="https://sebastianzambrano.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Sitio_Web-sebastianzambrano.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web" />
+<p align="left">
+  <a href="https://sebastianzambrano.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/FakeCxbas/FakeCxbas/main/assets/web.svg" width="36" height="36" alt="sebastianzambrano.dev" title="Sitio Web" />
   </a>
-  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-paul-zambrano-inga-7700633ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-paul-zambrano-inga-7700633ab/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/FakeCxbas/FakeCxbas/main/assets/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
   </a>
-  <a href="mailto:sebastianzambrano2818@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;&nbsp;
+  <a href="mailto:sebastianzambrano2818@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/FakeCxbas/FakeCxbas/main/assets/gmail.svg" width="36" height="36" alt="Gmail" title="Gmail" />
   </a>
 </p>
 
