@@ -34,11 +34,11 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 
 | Proyecto | Mi trabajo / Logro | Tecnologías | Enlaces |
 | :--- | :--- | :--- | :---: |
-| **ContaNova** | Desarrollo de una plataforma de gestión comercial y facturación electrónica SRI, utilizada activamente por negocios con soporte continuo. | `React` `TypeScript` `PostgreSQL` | [Código](https://github.com/FakeCxbas/ContaNova) · [Web](https://contanova.org) |
+| **ContaNova** | Desarrollo de una plataforma de gestión comercial y facturación electrónica SRI, utilizada activamente por negocios con soporte continuo. | `React` `TypeScript` `PostgreSQL` | [Web](https://contanova.org) · *Repo comercial* |
 | **TechView** | Asistencia visual con detección de objetos y alertas por voz en tiempo real. Proyecto de graduación en equipo, con mención de honor en enero de 2026. | `Python` `OpenCV` `YOLOv8` `Flask` | [Código](https://github.com/FakeCxbas/TechView) |
 | **SmartDocs** | Plataforma documental web: autenticación, almacenamiento seguro, búsqueda e indexación con extracción OCR. | `React` `TypeScript` `Tesseract.js` | [Código](https://github.com/FakeCxbas/SmartDocs) |
 | **Actuariosa** | Propuesta web de consultoría actuarial en producción, con diseño adaptable y cotizaciones por WhatsApp y correo. | `React` `TypeScript` `CSS` | [Código](https://github.com/FakeCxbas/actuariosa-web) · [Web](https://panel-web-six-plum.vercel.app) |
-| **San Viernes** | Aplicación de escritorio para facturación de tickets, comandas e inventario con canal de distribución y actualización remota. | `React` `TypeScript` `Electron` | [Código](https://github.com/FakeCxbas/SanViernes) |
+| **San Viernes** | Aplicación de escritorio para facturación de tickets, comandas e inventario con canal de distribución y actualización remota. | `React` `TypeScript` `Electron` | *Comercial (Privado)* |
 
 ---
 
