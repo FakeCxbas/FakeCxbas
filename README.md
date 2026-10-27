@@ -63,9 +63,10 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 ### Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FakeCxbas&show_icons=true&hide_border=true&bg_color=00000000&title_color=c6fa78&text_color=ffffff&icon_color=c6fa78&ring_color=c6fa78" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FakeCxbas&hide_border=true&background=00000000&ring=c6fa78&fire=c6fa78&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c6fa78&sideLabels=b5c0b5&dates=b5c0b5&stroke=30363d" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FakeCxbas&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=c6fa78&text_color=ffffff&icon_color=c6fa78&custom_title=M%C3%A9tricas%20generales" alt="Métricas generales" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeCxbas&layout=compact&hide_border=true&bg_color=00000000&title_color=c6fa78&text_color=b5c0b5&hide=html" alt="Lenguajes más usados" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeCxbas&layout=compact&hide_border=true&bg_color=00000000&title_color=c6fa78&text_color=b5c0b5" alt="Top Languages" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FakeCxbas&hide_border=true&background=00000000&ring=c6fa78&fire=c6fa78&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c6fa78&sideLabels=b5c0b5&dates=b5c0b5&stroke=30363d" alt="Racha de contribuciones" height="160" />
 </p>
