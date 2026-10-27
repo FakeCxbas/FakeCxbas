@@ -8,7 +8,7 @@ Desarrollo aplicaciones **web, móviles y de escritorio** orientadas a resolver 
 
 <p align="left">
   <a href="https://sebastianzambrano.dev" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/web.svg" width="36" height="36" alt="sebastianzambrano.dev" title="Portafolio (sebastianzambrano.dev)" />
+    <img src="./assets/sz-monogram.svg" width="36" height="36" alt="sebastianzambrano.dev" title="Portafolio (sebastianzambrano.dev)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-paul-zambrano-inga-7700633ab/" target="_blank" rel="noopener noreferrer">
