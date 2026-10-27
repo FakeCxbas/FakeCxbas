@@ -46,11 +46,11 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 
 ### Automatización y backend con Python
 
-> **MxCorreo:**  
-> Aplicación portable para Windows con importación de Excel y CSV, detección de duplicados, validación de sintaxis y registros DNS/MX e informes. Incorpora simulación de envíos, SMTP cifrado y registro en SQLite.
-> - **+36.000 registros procesados** en el primer lote (identificando 24.604 direcciones únicas).
-> - Clasificación de dominios mediante consultas DNS/MX y registro transaccional.
-> - **78 pruebas automatizadas** para garantizar fiabilidad antes de su despliegue en entornos corporativos.
+> **MxCorreo / Pipeline de Procesamiento de Datos:**  
+> Aplicación portable y herramientas de ingeniería de datos para importación masiva de Excel/CSV, normalización, clasificación DNS/MX y verificación de estados empresariales con persistencia transaccional en SQLite.
+> - **+136.000 registros procesados y depurados** identificando 136.603 direcciones únicas en +15.500 dominios.
+> - **+42.600 contactos corporativos y de empresas activas** con validación de RUC ante entes de control (Supercias).
+> - Filtrado automatizado de disolución/inactividad y arquitectura robusta con **78 pruebas automatizadas**.
 
 ---
 
