@@ -25,7 +25,7 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 ### Stack tecnológico
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,flutter,postgres,flask,electron,tailwind,html,css,git,github,vscode,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,python,cpp,godot,qt,cmake,flutter,postgres,flask,electron,tailwind,git,github,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -34,10 +34,12 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 
 | Proyecto | Mi trabajo / Logro | Tecnologías | Enlaces |
 | :--- | :--- | :--- | :---: |
-| **ContaNova** | Desarrollo de una plataforma de gestión comercial y facturación electrónica SRI, utilizada activamente por negocios con soporte continuo. | `React` `TypeScript` `PostgreSQL` | [Web](https://contanova.org) · *Repo comercial* |
+| **ContaNova** | Plataforma de gestión comercial y facturación electrónica SRI para negocios locales con soporte continuo y clientes activos. | `React` `TypeScript` `PostgreSQL` | [Web](https://contanova.org) · *Repo comercial* |
+| **OmniNote** | Motor nativo de toma de notas STEM de alto rendimiento: soporte para tabletas gráficas Wacom, renderizado de trazos con baja latencia y cuadrículas procedurales. | `C++20` `Qt6` `CMake` | [Código](https://github.com/FakeCxbas/OmniNote) |
+| **SwiftPiano** | Sintetizador de piano 2D en tiempo real con bancos multi-instrumento, procesamiento DSP con compresor/limitador, visualizador reactivo y convertidor de partituras/MIDI. | `Godot 4` `GDScript` `GLSL` | [Código](https://github.com/FakeCxbas/SwiftPiano) |
 | **TechView** | Asistencia visual con detección de objetos y alertas por voz en tiempo real. Proyecto de graduación en equipo, con mención de honor en enero de 2026. | `Python` `OpenCV` `YOLOv8` `Flask` | [Código](https://github.com/FakeCxbas/TechView) |
 | **SmartDocs** | Plataforma documental web: autenticación, almacenamiento seguro, búsqueda e indexación con extracción OCR. | `React` `TypeScript` `Tesseract.js` | [Código](https://github.com/FakeCxbas/SmartDocs) |
-| **Actuariosa** | Propuesta web de consultoría actuarial en producción, con diseño adaptable y cotizaciones por WhatsApp y correo. | `React` `TypeScript` `CSS` | [Código](https://github.com/FakeCxbas/actuariosa-web) · [Web](https://panel-web-six-plum.vercel.app) |
+| **Actuariosa** | Propuesta web de consultoría actuarial en producción, con diseño adaptable y cotizaciones por WhatsApp y correo. | `React` `TypeScript` `Tailwind` | [Código](https://github.com/FakeCxbas/actuariosa-web) · [Web](https://panel-web-six-plum.vercel.app) |
 | **San Viernes** | Aplicación de escritorio para facturación de tickets, comandas e inventario con canal de distribución y actualización remota. | `React` `TypeScript` `Electron` | *Comercial (Privado)* |
 
 ---
@@ -55,6 +57,7 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 ### Otras soluciones y experiencia
 
 - **Taller Jeldes:** Reconstrucción integral en Flutter de la aplicación móvil y panel administrativo con reportes asistidos por IA.
+- **CustomMusicMenu (GD Mod):** Mod en C++ con Geode SDK para selección y reproducción de música personalizada en el menú principal.
 - **Sistemas comerciales:** Soluciones de toma de pedidos y aplicaciones de supervisión para pequeños negocios.
 - *Nota:* Los repositorios `SanViernesUpdates` y `BillarClubUpdates` corresponden a canales de distribución de binarios y actualizaciones.
 
@@ -63,7 +66,7 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 ### Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FakeCxbas&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=c6fa78&text_color=ffffff&icon_color=c6fa78&custom_title=M%C3%A9tricas%20generales&hide=stars,prs,contribs" alt="Métricas generales" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FakeCxbas&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=c6fa78&text_color=ffffff&icon_color=c6fa78&custom_title=M%C3%A9tricas%20generales&hide=stars,contribs" alt="Métricas generales" height="165" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FakeCxbas&layout=compact&hide_border=true&bg_color=00000000&title_color=c6fa78&text_color=b5c0b5&hide=html" alt="Lenguajes más usados" height="165" />
 </p>
