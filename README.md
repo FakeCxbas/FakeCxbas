@@ -8,15 +8,15 @@ Desarrollo aplicaciones **web, móviles y de escritorio** orientadas a resolver 
 
 <p align="left">
   <a href="https://sebastianzambrano.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/FakeCxbas/FakeCxbas/main/assets/web.svg" width="36" height="36" alt="sebastianzambrano.dev" title="Sitio Web" />
+    <img src="./assets/web.svg" width="36" height="36" alt="sebastianzambrano.dev" title="Portafolio (sebastianzambrano.dev)" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sebasti%C3%A1n-paul-zambrano-inga-7700633ab/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/FakeCxbas/FakeCxbas/main/assets/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
+    <img src="./assets/linkedin.svg" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sebastianzambrano2818@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/FakeCxbas/FakeCxbas/main/assets/gmail.svg" width="36" height="36" alt="Gmail" title="Gmail" />
+    <img src="./assets/gmail.svg" width="36" height="36" alt="Gmail" title="Gmail" />
   </a>
 </p>
 
