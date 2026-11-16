@@ -35,8 +35,10 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 | Proyecto | Mi trabajo / Logro | Tecnologías | Enlaces |
 | :--- | :--- | :--- | :---: |
 | **ContaNova** | Plataforma de gestión comercial y facturación electrónica SRI para negocios locales con soporte continuo y clientes activos. | `React` `TypeScript` `PostgreSQL` | [Web](https://contanova.org) · *Repo comercial* |
+| **ATLANIA (ASI Engine)** | Motor de cálculo cuantitativo de análogos planetarios (Tierra vs. Luna/Marte) para el NASA Space Apps 2026. Ingesta satelital de NASA POWER, Copernicus DEM y suite con **270 pruebas unitarias automatizadas**. | `Python 3.11` `pytest` `NASA POWER API` `GeoJSON` | [Código](https://github.com/FakeCxbas/Atlania) |
 | **OmniNote** | Motor nativo de toma de notas STEM de alto rendimiento: soporte para tabletas gráficas Wacom, renderizado de trazos con baja latencia y cuadrículas procedurales. | `C++20` `Qt6` `CMake` | [Código](https://github.com/FakeCxbas/OmniNote) |
 | **SwiftPiano** | Sintetizador de piano 2D en tiempo real con bancos multi-instrumento, procesamiento DSP con compresor/limitador, visualizador reactivo y convertidor de partituras/MIDI. | `Godot 4` `GDScript` `GLSL` | [Código](https://github.com/FakeCxbas/SwiftPiano) |
+| **DroidStream** | Transmisor de video de baja latencia para cámara web virtual en Linux con receptor CLI puro en Go (ioctl V4L2) y cliente Android en Kotlin. | `Go` `Kotlin` `Linux V4L2` `CameraX` | [Código](https://github.com/FakeCxbas/droidstream) |
 | **TechView** | Asistencia visual con detección de objetos y alertas por voz en tiempo real. Proyecto de graduación en equipo, con mención de honor en enero de 2026. | `Python` `OpenCV` `YOLOv8` `Flask` | [Código](https://github.com/FakeCxbas/TechView) |
 | **SmartDocs** | Plataforma documental web: autenticación, almacenamiento seguro, búsqueda e indexación con extracción OCR. | `React` `TypeScript` `Tesseract.js` | [Código](https://github.com/FakeCxbas/SmartDocs) |
 | **Actuariosa** | Propuesta web de consultoría actuarial en producción, con diseño adaptable y cotizaciones por WhatsApp y correo. | `React` `TypeScript` `Tailwind` | [Código](https://github.com/FakeCxbas/actuariosa-web) · [Web](https://panel-web-six-plum.vercel.app) |
@@ -44,9 +46,14 @@ Guayaquil, Ecuador · Abierto a oportunidades junior y pasantías.
 
 ---
 
-### Automatización y backend con Python
+### Automatización, backend e ingeniería de datos con Python
 
-> **MxCorreo / Pipeline de Procesamiento de Datos:**  
+> **ATLANIA // Planetary Analog Similarity Engine (NASA Space Apps 2026):**  
+> Motor de evaluación cuantitativa multidimensional para contrastar y puntuar análogos terrestres frente a escenarios de misión lunar (Artemis) y marciana.
+> - **Ingesta y normalización satelital:** Consulta automatizada a la **NASA POWER API** (temperaturas extremas, radiación incidente, presión, vientos y humedad) cruzada con el modelo global de elevación **Copernicus DEM GLO-90** (muestreo de relieve y pendientes en 5 puntos).
+> - **Calidad de software e integridad algorítmica:** Arquitectura desacoplada, tipado inmutable estricto y suite rigurosa de **270 pruebas unitarias automatizadas (`pytest`) con 100% de éxito**.
+
+> **MxCorreo / Pipeline de Procesamiento de Datos Empresariales:**  
 > Aplicación portable y herramientas de ingeniería de datos para importación masiva de Excel/CSV, normalización, clasificación DNS/MX y verificación de estados empresariales con persistencia transaccional en SQLite.
 > - **+136.000 registros procesados y depurados** identificando 136.603 direcciones únicas en +15.500 dominios.
 > - **+42.600 contactos corporativos y de empresas activas** con validación de RUC ante entes de control (Supercias).
